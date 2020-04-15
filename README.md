@@ -5,5 +5,5 @@ Ma'lumotlar tahlili mutaxasisi bo'lish uchun nimadan boshlash kerak?
 
 Yo'riqnomalarga havolalar keltirilgan.
 
-1. <a href = "powerbi.microsoft.com/ru/" >Python 3</a> 
+1. <a href = "powerbi.microsoft.com/ru/" >Microsoft Power BI </a> 
 
