@@ -25,10 +25,7 @@
             <li><a href = "https://www.sqlite.org/docs.html">SQLite</a></li>
 		    <li><a href = "https://uz.wikipedia.org/wiki/SQL">SQL</a>
         </ul>
-        </li>
-        </li>
-    </ul>
-</div>
+     </div>
 <hr>
 <div>
     
