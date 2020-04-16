@@ -48,18 +48,25 @@
     <h4>Ingliz  tilida (Afsuski o'zbek tilida hozirgi vaqtda qo'llanmalar juda ham kam)</h4>
     <ul>
         <li><a href = "https://data-flair.training/blogs/data-analytics-tutorial/">Data Analytics Tutorial for Beginners – From Beginner to Pro in 10 Mins!</a></li>
-        <li><a href = "https://pythonprogramming.net/data-analysis-tutorials/">Data Analysis Learn how to use Python with Pandas</a></li>
-      </ul>  
-   
-    <h4>Rus tilida</h4>
-    <ul>
-        <li><a href = "https://praktikum.yandex.ru/data-analyst/"> Анализ данных </a></li>
+        <li><a href = "https://pythonprogramming.net/data-analysis-tutorials/">Data Analysis Learn how to use Python with Pandas</a>
+	
+	<hr>
+	
+	<h4>Rus tilida</h4>
+	
+	<li><a href = "https://praktikum.yandex.ru/data-analyst/"> Анализ данных </a></li>
         <li><a href = "https://ai-news.ru/2017/09/urok_1_vvedenie_v_analiz_dannyh.html">Введение в Анализ Данных</a></li>
         <li><a href = "https://habr.com/ru/post/353050/"> Анализ данных с использованием Python </a></li>
         <li><a href = "https://stepik.org/course/4852/promo"> Анализ данных с использованием Python </a></li>
-      
-    </ul>
-    <h4>Agar sizda boshqa qo'llanmalar yoki maqolalar bo'yicha takliflar bo'lsa <a href="https://t.me/be20motivated">guruh moderatori</a> bilan aloqaga chiqing!</h4>
+	    </li>
+	    
+	    <hr>
+	    
+	  <h4>Agar sizda boshqa qo'llanmalar yoki maqolalar bo'yicha takliflar bo'lsa <a href="https://t.me/be20motivated">guruh moderatori</a> bilan aloqaga chiqing!</h4>  
+      </ul>  
+   
+    
+   
 </div>
 <hr>
 <div>
