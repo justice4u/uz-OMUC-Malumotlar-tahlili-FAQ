@@ -49,7 +49,7 @@
     <ul>
         <li><a href = "https://data-flair.training/blogs/data-analytics-tutorial/">Data Analytics Tutorial for Beginners – From Beginner to Pro in 10 Mins!</a></li>
         <li><a href = "https://pythonprogramming.net/data-analysis-tutorials/">Data Analysis Learn how to use Python with Pandas</a></li>
-        
+      </ul>  
    
     <h4>Rus tilida</h4>
     <ul>
