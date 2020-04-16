@@ -27,23 +27,20 @@
         </ul>
      </div>
 <hr>
-<div>
-    
-</div>
+
 
 <div>
     <h2>Qaysi kitoblarni o'qisam bo'ladi? (inglizcha / ruscha)</h2>
     <p>Endi boshlayotganlar uchun quyida keltirilgan kitoblar to'g'ri keladi. </p>
     <ul>
         <li>  Advanced Data Analytics Using Python by Sayan Mukhopadhyay (Apress, 2018).</li>
-        <li> Python for Data Analysis | Data Wrangling with Pandas, NumPy, and IPython | By William McKinney </li>
+        <li>  Python for Data Analysis | Data Wrangling with Pandas, NumPy, and IPython | By William McKinney </li>
         <li><a href ="https://python.swaroopch.com/" >A byte of Python</a></li>
+	<p><i>Data analysis </i> ga aloqador boshqa kitoblarni quyidagi telegram kanallardan topsangiz bo'ladi.</p>
+	    <li><a href = "https://t.me/progbook">@progbook</a></li>
         </ul>
-    <p><i>Data analysis </i> ga aloqador boshqa kitoblarni quyidagi telegram kanallardan topsangiz bo'ladi.</p>
-    <ul>
-        <li><a href = "https://t.me/progbook">@progbook</a></li>
-        
-    </ul>
+    
+    
 </div>
 <hr>
 <div>
@@ -53,7 +50,7 @@
         <li><a href = "https://data-flair.training/blogs/data-analytics-tutorial/">Data Analytics Tutorial for Beginners – From Beginner to Pro in 10 Mins!</a></li>
         <li><a href = "https://pythonprogramming.net/data-analysis-tutorials/">Data Analysis Learn how to use Python with Pandas</a></li>
         
-    </ul>
+   
     <h4>Rus tilida</h4>
     <ul>
         <li><a href = "https://praktikum.yandex.ru/data-analyst/"> Анализ данных </a></li>
@@ -71,9 +68,8 @@
     <ul>
         <li><a href = "https://stackoverflow.com/questions/tagged/data-analyst/">StackOverflow</a></li>
         
-    </ul>
-    <h4>Rus tilida</h4>
-    <ul>
+        <h4>Rus tilida</h4>
+   
         <li><a href = "https://habr.com/ru/search/?q=data+analyst#h">Habr</a></li>
         <li><a href = "https://stepik.org/catalog?q=data%20analysis">Stepik</a></li>
          </ul>
